@@ -312,5 +312,4 @@ patterns = {
 run = run,
 }
 
---by Tarfand.pro :)
---By @CliApi
+
